@@ -1,5 +1,8 @@
 # Go DDD Example
 
+This is a repository to test the ddd pattern with go, based on what was published in [this](https://programmingpercy.tech/blog/how-to-domain-driven-design-ddd-golang/) post
+
+
 ## Notes
 
 ### Domain
