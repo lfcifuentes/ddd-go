@@ -60,3 +60,10 @@ go test  ./... -coverprofile=coverage.out
 ```bash
 go tool cover -html=coverage.out
 ```
+
+#### Run Server
+
+Run development server 
+```bash
+go run main.go serve
+```
